@@ -1,6 +1,6 @@
 # LinkedIn Draft
 
-I just built **week10_ops_tool**, a Python automation project that turns a repetitive operations spreadsheet check into a one-command workflow.
+I just built week10_ops_tool, a Python automation project that turns a repetitive operations spreadsheet check into a one-command workflow.
 
 The tool validates daily ticket/incident data, flags duplicate records and missing fields, calculates SLA performance, identifies overdue work, and automatically creates both an exception file and a management-ready summary.
 
